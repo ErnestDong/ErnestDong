@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @ErnestDong
-- 👀 I’m interested in coding and financing
-- 🌱 I’m currently learning risk management and insurance in Peking University
-- 💪 Hope I can beat depression
+## About Me
 
-<!---
-ErnestDong/ErnestDong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Chenyang Dong (Ernest). You can find more information about me on [LinkedIn](https://www.linkedin.com/in/%E6%99%A8%E9%98%B3-%E8%91%A3-918ab41b4/)
+
+## Research Interest
+
+I major in Risk Management and Insurance in PKU. And I love coding. My personal website is [here](https://ernestdong.github.io).
+
+Here's my GitHub statistics.
+
+![Ernest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErnestDong&show_icons=true)
+
+
+## Hobbies
+
+- coding and algorithms
+
+- artificial intelligence 
+
+- emacs
