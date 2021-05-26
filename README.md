@@ -9,12 +9,3 @@ I major in Risk Management and Insurance in PKU. And I love coding. My personal 
 Here's my GitHub statistics.
 
 ![Ernest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErnestDong&show_icons=true)
-
-
-## Hobbies
-
-- coding and algorithms
-
-- artificial intelligence 
-
-- emacs
