@@ -12,10 +12,10 @@ Here's my GitHub statistics.
 
 <!--START_SECTION:waka-->
 ```text
-Python       8 hrs 49 mins   ███████████░░░░░░░░░░░░░░   43.99 % 
-org mode     5 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-Emacs Lisp   2 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Other        1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-BibTeX       51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Emacs Lisp   7 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+org mode     6 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+Other        5 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.73 % 
+TOML         2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Markdown     1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 <!--END_SECTION:waka-->
