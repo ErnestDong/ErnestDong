@@ -11,11 +11,13 @@ Here's my GitHub statistics.
 ![Ernest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErnestDong&show_icons=true?count_private=true)
 
 <!--START_SECTION:waka-->
+
 ```text
-Python       9 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   29.36 % 
-org mode     7 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.13 % 
-Emacs Lisp   7 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.86 % 
-TeX          3 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Markdown     1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Python       13 hrs 31 mins  ██████████▓░░░░░░░░░░░░░░   43.33 %
+Emacs Lisp   9 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   30.19 %
+org mode     2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+TeX          2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Other        1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
+
 <!--END_SECTION:waka-->
