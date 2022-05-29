@@ -13,12 +13,12 @@ Here's my GitHub statistics.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown           17 hrs 10 mins  █████████████░░░░░░░░░░░░   52.51 %
-JSON               5 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
-Python             3 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-YAML               1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Vue.js             1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-TypeScript         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Python         14 hrs 18 mins  ████████████▒░░░░░░░░░░░░   48.98 %
+TeX            4 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+Markdown       3 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+YAML           1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+JSON           1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+JavaScript     1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
