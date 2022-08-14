@@ -13,9 +13,12 @@ Here's my GitHub statistics.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     23 hrs 25 mins  ██████████████▓░░░░░░░░░░   59.22 %
-JavaScript   8 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-Other        2 hrs 57 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Markdown     23 hrs 54 mins  ████████████████████████▓   98.74 %
+TeX          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
