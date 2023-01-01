@@ -13,7 +13,12 @@ Here's my GitHub statistics.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TeX         18 hrs 34 mins  ██████████████████░░░░░░░   71.68 %
+sh          4 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+RMarkdown   1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+R           47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JSON        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Git         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
