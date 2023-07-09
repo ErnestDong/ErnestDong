@@ -9,7 +9,8 @@ Here's my GitHub statistics.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash     2 mins          ███████████████████░░░░░░   76.63 %
+Python   0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.37 %
 ```
 
 <!--END_SECTION:waka-->
