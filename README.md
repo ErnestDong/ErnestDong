@@ -9,8 +9,8 @@ Here's my GitHub statistics.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 19 mins    █████████████████████████   99.74 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python   17 mins         ██████████████████████▒░░   89.66 %
+JSON     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
 ```
 
 <!--END_SECTION:waka-->
