@@ -9,7 +9,11 @@ Here's my GitHub statistics.
 <!--START_SECTION:waka-->
 
 ```txt
-ActionScript 3   0 secs          █████████████████████████   100.00 %
+Python         3 hrs 31 mins   ██████████████████████▒░░   88.79 %
+JavaScript     18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+JSON           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+TOML           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
