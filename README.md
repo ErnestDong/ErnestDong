@@ -9,10 +9,11 @@ Here's my GitHub statistics.
 <!--START_SECTION:waka-->
 
 ```txt
-Python         51 mins         █████████████████░░░░░░░░   67.57 %
-ActionScript   20 mins         ███████░░░░░░░░░░░░░░░░░░   27.77 %
-TeX            3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Python       22 mins         ██████████████▓░░░░░░░░░░   58.92 %
+TypeScript   11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.70 %
+JSON         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Other        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
