@@ -9,11 +9,10 @@ Here's my GitHub statistics.
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        10 hrs 21 mins  ██████████████░░░░░░░░░░░   56.27 %
-Python     6 hrs 57 mins   █████████▒░░░░░░░░░░░░░░░   37.85 %
-BibTeX     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Markdown   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Text       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TeX        4 hrs 19 mins   ████████████▒░░░░░░░░░░░░   49.95 %
+Markdown   3 hrs 20 mins   █████████▓░░░░░░░░░░░░░░░   38.67 %
+BibTeX     58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
